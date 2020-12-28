@@ -1,0 +1,11 @@
+--------------------------------------------Prologue--------------------------------------------
+Hello, {}, you're a detective that is investigating the death of Prof.Jerry.
+Prof.Jerry has been pronounced dead yesterday besides his desktop in his lab at 02122020 0314HRS.
+Here are some details that you managed to gather from his family & friends
+1) Jerry is an egoistic Neuro & Computer scientist.
+2) Age: 69, Birthdate: 14th February 1951.
+3) Jerry was rejected on his recent proposal, a better AI. Partially due to his yellow dress code.
+4) Shortly after the rejection, he had a fall out with his family.
+5) His best friend Drunkie, haven't heard from him since, despite contacting him several times.
+6) His remaining friends did not knew his whereabouts as well.
+----------------------------------------End of Prologue------------------------------------------
